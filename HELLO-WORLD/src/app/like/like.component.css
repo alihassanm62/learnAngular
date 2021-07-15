@@ -1,0 +1,10 @@
+
+.icon{
+  font-size: 40px;
+}
+.icon.bi-heart-fill{
+  color:deeppink;
+}
+.icon-empty.bi-heart-fill{
+  color: #ccc;
+}
